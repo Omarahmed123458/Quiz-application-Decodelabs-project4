@@ -1,4 +1,4 @@
-# Password-Generator-Decodelabs-Project2
+# Quiz-application-Decodelabs-project4
 An interactive, Terminal-Based quiz application built in Python , The program asks multiple-choice questions, validates user input and check the user's answer, and keeps track of the score 
 ## features
 - Multiple choice questions
